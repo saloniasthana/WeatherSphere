@@ -17,13 +17,13 @@ WeatherSphere is a responsive weather application built using React.js, Material
 🎨 Styled using Material UI components and custom CSS for a responsive layout
 
 🛠️ Tech Stack
-React.js
+-React.js
 
-Material UI (MUI)
+-Material UI (MUI)
 
-OpenWeatherMap API
+-OpenWeatherMap API
 
-CSS
+-CSS
 
 📌 How to Run
 Clone the repository
