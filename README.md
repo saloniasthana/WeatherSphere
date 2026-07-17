@@ -25,11 +25,5 @@ WeatherSphere is a responsive weather application built using React.js, Material
 
 -CSS
 
-📌 How to Run
-Clone the repository
-
-Install dependencies: npm install
-
-Add your OpenWeatherMap API key to the .env file
-
-Start the development server: npm start
+📌 # Live url
+https://weather-sphere-khaki.vercel.app
